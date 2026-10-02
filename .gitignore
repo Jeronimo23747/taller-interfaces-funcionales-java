@@ -1,0 +1,19 @@
+# Archivos compilados y temporales de Java
+bin/
+target/
+*.class
+fuentes.txt
+
+# Configuración de entornos y editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Logs y SO
+*.log
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
